@@ -26,6 +26,18 @@
             
           </ul>
           <li><a href="Index.php">Log Out</a></li>
+        <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Update <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="resume_empty.html">66091</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="resume_empty.html">66091</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="resume_empty.html">66091</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="resume_empty.html">66091</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="resume_empty.html">66091</a></li>
+            <li role="separator" class="divider"></li>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
