@@ -32,7 +32,7 @@
             <li role="separator" class="divider"></li>
             <li><a href="https://mcbryan98.github.io/Individual-Eportfolio-66612/resume_empty.html">66612</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="https://65937.github.io/65937-e-portfolio/resume_empty.html">66091</a></li>
+            <li><a href="https://65937.github.io/65937-e-portfolio/resume_empty.html">65937</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="resume_empty.html">66091</a></li>
             <li role="separator" class="divider"></li>
