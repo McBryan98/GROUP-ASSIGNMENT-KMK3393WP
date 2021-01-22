@@ -38,6 +38,7 @@
             <li role="separator" class="divider"></li>
             <li><a href="resume_empty.html">66091</a></li>
             <li role="separator" class="divider"></li>
+        </ul></li>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
