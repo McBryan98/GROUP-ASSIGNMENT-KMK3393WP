@@ -1,0 +1,239 @@
+/* mystyles.css */
+
+html,
+
+body{
+    height: 100%;
+    background-color: khaki;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.section-content {
+    padding: 5rem 0;
+}
+
+.gambarcover999{
+    background-image: url(img/brad-elvis.png);
+    background-size: cover;
+}
+
+.box{
+    position: relative;
+    max-width: 600px;
+    padding: 50px;
+    background: rgb(153, 153, 153);
+    box-shadow: 5px 15px white;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+.carousel-container{
+    -webkit-animation: fade;
+    -webkit-animation-duration: 2s;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
+.navbar-collapse{
+    background-color: grey;
+    font-size: larger;
+    text-align: center;
+    font-size: 30px;
+ 
+}
+
+.navbar-branding{
+  height: 100%;
+}
+.section-content{
+    background-color: khaki;
+}
+nav{
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text-xs-center{
+  float: none;
+  top: 50%;
+  left: 50%;
+  margin-left: 0px ;
+  margin-right: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+  }
+.footer-down{
+  margin-left: 0%;
+  margin-right: 0px;
+}
+.about-me{
+  background-image: url(img/My\ photo.jpg) ;
+  height: 1000px;
+  border: black solid;
+  background-position: center;
+  
+  
+}
+
+
+.footer-details{
+    text-align: right;
+    background-color: rgb(82, 90, 82);
+}
+  .footer-container{
+      background-color:  rgb(82, 90, 82);
+      color: black;
+  }
+.lead{
+  background-color: whitesmoke ;
+  box-sizing: 10px;
+  font: 50px;
+  text-align: justify;
+}
+.container{
+  background-color: #da1c1c83;
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+.bg-light {
+    background-color: cornflowerblue;
+}
+.btn-success-outline{
+    border: 1px solid #212529;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+{
+box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .row {margin: 0 -5px;
+  }
+  
+  /* Clear floats after the columns */
+  
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px  rgba(0, 0, 0);
+    padding: 16px;
+    text-align: center;
+    background-color: #ffffff83;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+
+  }
+
+  .info{
+    border: black solid 2px;
+    font: 20px bold;
+  }
+
+  .work-experience{
+    font: bold 15px;
+  }
+
+  .table-list{
+    font: bold ;
+  }
+
+  @media (min-width: 768px);
+   .lead {
+      font-size: 50px;
+  }
+  .h5{
+    font-size: 20px;
+  }
+
+  p{
+    font-size: 20px ;
+    text-align: justify
+    
+  }
+
+  h3{
+    font-size: xx-large;
+  }
+
+  h1{
+    font-size: xx-large;
+    border: black solid;
+    background-color: coral;
+  }
+
+  .h2{
+    font-weight: bold;
+  }
+  .p1{
+    font-size: 20px ;
+    font-weight: bold;
+    
+  }
+
+  p{
+    font-size: 20px ;
+    text-align: justify
+    
+  }
+
+
+  .footers{
+    text-align: right;
+    background-color: rgb(82, 90, 82);
+}
+
+.position{
+  text-align: right;
+    background-color: rgb(82, 90, 82);
+}
