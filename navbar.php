@@ -34,7 +34,7 @@
             <li role="separator" class="divider"></li>
             <li><a href="https://65937.github.io/65937-e-portfolio/resume_empty.html">65937</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="resume_empty.html">66091</a></li>
+            <li><a href="https://dinz1998.github.io/Individual68676/resume_68676.html">68676</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="resume_empty.html">66091</a></li>
             <li role="separator" class="divider"></li>
