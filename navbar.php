@@ -28,7 +28,7 @@
           <li><a href="Index.php">Log Out</a></li>
         <li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Update <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="resume_empty.html">66091</a></li>
+            <li><a href="https://andy1494.github.io/myefolio/My_e-Portfolio.html">66091</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="https://mcbryan98.github.io/Individual-Eportfolio-66612/resume_empty.html">66612</a></li>
             <li role="separator" class="divider"></li>
