@@ -8,12 +8,11 @@
    4. to create database open broswer "localhost/phpmyadmin"
    5. create database name "foodsys"
    6. import database file from downloaded file, DATABASE/foodsys.sql
-    7. Then open broswer type " localhost/foodsys/index.php " 
-    8. then run and enjoy from our Sahabat Food Service System sdn bhd  
+   7. Then open broswer type " localhost/foodsys/index.php " 
+   8. then run and enjoy from our Sahabat Food Service System sdn bhd  
     
     
 
- To run our system
- Create a Database title 'foodsys' and import the database from folder 'DATABASE' file name foodsys.sql
+
 
 Thank you.
